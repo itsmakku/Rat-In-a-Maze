@@ -1,0 +1,16 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.white {
+  width: 4rem;
+  height: 4rem;
+  background-color: while;
+  border: 0.5px black solid;
+}
+.rat {
+  padding: 10px;
+  background-image: url("./rat.png");
+  background-size: cover;
+}

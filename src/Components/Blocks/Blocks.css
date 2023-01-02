@@ -1,0 +1,12 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.red {
+  width: 4rem;
+  height: 4rem;
+  background-color: red;
+  border: 0.5px black solid;
+}

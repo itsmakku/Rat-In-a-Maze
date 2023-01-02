@@ -1,0 +1,15 @@
+.home {
+  width: 4rem;
+  height: 4rem;
+  background-color: rgb(235, 6, 6);
+  border: 0.5px black solid;
+}
+
+.des {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 32px;
+  background-image: url("./home.png");
+  background-size: cover;
+}
